@@ -208,4 +208,4 @@ datalens/
 
 ## License
 
-MIT
+GPT
