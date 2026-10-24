@@ -2,11 +2,6 @@
 
 **Upload a CSV, understand it, and model it.** DataLens is a full-stack MERN application that profiles a dataset automatically (types, missing values, summary statistics, distributions, correlations) and trains a linear regression model on it, with the learning algorithm written from scratch rather than imported from a library.
 
-![Dataset profile](docs/screenshots/dataset.png)
-
-| Model results | Saved report |
-| --- | --- |
-| ![Model](docs/screenshots/model.png) | ![Report](docs/screenshots/report.png) |
 
 ## Features
 
